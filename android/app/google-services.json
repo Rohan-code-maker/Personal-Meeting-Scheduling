@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238319939515",
+    "project_id": "techdunkers",
+    "storage_bucket": "techdunkers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238319939515:android:fa0a0327bacc43254fde9e",
+        "android_client_info": {
+          "package_name": "com.example.tech_dunkers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvGm_8Cgx_Meycu6-Qvc53k9ZLQberTNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
